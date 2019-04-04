@@ -1,0 +1,27 @@
+{
+  "name": "mwa",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Elsabeth7/MWA.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Elsabeth7/MWA/issues"
+  },
+  "homepage": "https://github.com/Elsabeth7/MWA#readme",
+  "dependencies": {
+    "express": "^4.16.4",
+    "moment": "^2.24.0",
+    "rxjs": "^6.4.0"
+  },
+  "devDependencies": {
+    "jasmine": "^3.4.0"
+  }
+}
