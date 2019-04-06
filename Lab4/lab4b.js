@@ -1,4 +1,4 @@
-//how to get info from current os
+
 const os = require('os');
 
 const totalMemory = os.totalmem();
