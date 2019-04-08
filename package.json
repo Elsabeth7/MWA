@@ -18,9 +18,12 @@
   "homepage": "https://github.com/Elsabeth7/MWA#readme",
   "dependencies": {
     "axios": "^0.18.0",
+    "cors": "^2.8.5",
     "express": "^4.16.4",
     "moment": "^2.24.0",
-    "rxjs": "^6.4.0"
+    "mongodb": "^3.2.3",
+    "rxjs": "^6.4.0",
+    "simple-encryptor": "^2.0.0"
   },
   "devDependencies": {
     "jasmine": "^3.4.0"
