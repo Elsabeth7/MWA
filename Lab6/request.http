@@ -1,0 +1,13 @@
+post http://localhost:7777/grades HTTP/1.1
+content-type: application/json
+
+{ 
+    "id": 0,
+    "name": "Elsabeth Mealku", 
+    "course": "MWA", 
+    "grade": "A+"
+}
+
+get http://localhost:7777/grades HTTP/1.1
+
+get http://localhost:7777/grades/1 HTTP/1.1
