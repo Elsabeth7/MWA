@@ -26,3 +26,6 @@
         
     }
 }
+//
+We can create index using ReturnDate with the assumption of that the librarian 
+will always check if the book requested is returned. 
