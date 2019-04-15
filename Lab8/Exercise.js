@@ -17,7 +17,6 @@ collection.find({}, {resturant_id: 1,name:1,district: 1,cuisine:1});
  //4
   collection.find({},{resturant_id: 1,name:1,district: 1, "address.zipcode": 1,_id:0});
 
-
 //5
 collection.find({district:"Bronx"});
 //6
