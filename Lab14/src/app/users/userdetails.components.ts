@@ -1,6 +1,6 @@
 import { Component, OnInit, Input } from '@angular/core';
 import { CanActivate, ActivatedRouteSnapshot, RouterStateSnapshot, ActivatedRoute } from '@angular/router';
-import { DownloadUsersService } from './download-users.service';
+import { DownloadUsersService } from '../download-users.service';
 
 @Component({
   selector: 'app-userdetails',

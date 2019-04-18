@@ -1,5 +1,5 @@
 import { Component, OnInit, ɵConsole } from '@angular/core';
-import { DownloadUsersService } from './download-users.service';
+import { DownloadUsersService } from '../download-users.service';
 
 
 @Component({
